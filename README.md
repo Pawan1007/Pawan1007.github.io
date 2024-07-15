@@ -1,2 +1,4 @@
-# Pawan1007.github.io
-My first repository 
+# Induction activity report 
+
+| Date | Name | Lecture |
+| 15-July | Dr Pyaralal | Dr. Pyaralal taught important things about life|
