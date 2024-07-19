@@ -1,5 +1,5 @@
 # Induction activity report 
-## Date = 15 July 
+## 15 July 
 
 | Date | Name | Lecture |
 |----------|----------|-------------|
@@ -7,20 +7,20 @@
 | **15 - July** | **Mr.Sony Goyal** | Mr. Sony Goyal is a humble person who visited our college at 15 July to encourage the new students who just joined the college and are afraid. Mr.Sony Goyal is a entertaining guy and a kind person who started a project called MISSION CAT. It is a commendable initiative led by Mr.Sony Goyal, aimed at empowering young girls who aspires to crack CAT. He taught young students at our induction program about the way of life. He divided the four years of course into four steps as **"LIFE" ( L-** Learn,**I-** Inquire,**F-** Future,**E-** Explore **)**. In first year learn things rather than just studying. In second year inquire, ask questions where you have doubts. In third year, ready your plans for you future and jobs. In fourth year explore and enjoy you life while trying to do your best at getting job. Mr.Sony Goyal has a unique style of teaching by making students feel comfortable and relaxed while having fun himself. He has a unique concept for a student, according to him a student should behave just like a heaxagon, meaning a student should be compatible while being efficient. This style of teaching by comparing students with shapes like triangle, circle and hexagon. This personality makes him a good teacher and entertaining for students.|
 | **15-July** | **Mr.Pancham** | |
 
-## Date = 16 July
+## 16 July
 
 | Date | Name | Lecture |
 |----------|----------|-------------|
 | **16-July** | **Prof.Nisha Masson** | |
 
-## Date = 17 July
+## 17 July
 
 | Date | Name | Lecture |
 |----------|----------|-------------|
 | **17-July** | **Mr.Sukhminder Singh**| |
 | **17-July** | **Prof.Nisha Masson** | | 
 
-## Date = 18 July
+## 18 July
 
 | Date | Name | Lecture |
 |----------|----------|-------------|
@@ -29,7 +29,7 @@
 | | **Dr.Harwinder Singh**| |
 | | **Er.Jasveer Singh Grewal** | |
 
-## Date = 19 July
+## 19 July
 
 | Date | Name | Lecture |
 |----------|----------|-------------|
