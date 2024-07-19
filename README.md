@@ -27,7 +27,7 @@
 | **18-July** | **Prof.Nisha Masson** | |
 | **18-July** | **Seniors** | |
 | | **Dr.Harwinder Singh**| |
-| | **Er.Jasveer Singh Grewal** | |
+| | **Dr.Jasveer Singh Grewal** | |
 
 ## 19 July
 
