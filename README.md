@@ -1,5 +1,15 @@
 I am Pawan Singh Rautela. I completed my 10+2 from Naiinital, Uttarakhand. I got 415 marks in my intermediate board examination.
+## Marksheet-
+
+## Excel course-
+
 ![IMG_20240722_130445](https://github.com/user-attachments/assets/99d21c56-3dbf-4149-a792-3cbea9c1a22c)
+
+I got this certificate after completing the excel course through MYGREATLEARNING. This is a short excel course going through basic to advance excel knowledge, this course contains many videos for students to learn and have quizes for students to test their skills. After completing the course the student is rewarded by a certificate.
+
+## My journey-
+Through this excel course i have learnt many things about excel. 
+I have lerant how to create tables and perform various actions using them. I have learnt to use functions within excel which shortens the waste of time and can be used in various ways It has time and date modules which let you store time and date of a certain event. Excel allows you do basic calculations between the values of many cells and tables. It has many other features like filtering and sorting rows and columns of a table and allows you to differentiate between cells using different cell colours and fon
 
 # Induction activity report 
 ## 15 July 
