@@ -1,3 +1,6 @@
+I am Pawan Singh Rautela. I completed my 10+2 from Naiinital, Uttarakhand. I got 415 marks in my intermediate board examination.
+![IMG_20240722_130445](https://github.com/user-attachments/assets/99d21c56-3dbf-4149-a792-3cbea9c1a22c)
+
 # Induction activity report 
 ## 15 July 
 
