@@ -10,7 +10,7 @@ I got this certificate after completing the excel course through MYGREATLEARNING
 ## My journey-
 Through this excel course i have learnt many things about excel. 
 I have lerant how to create tables and perform various actions using them. I have learnt to use functions within excel which shortens the waste of time and can be used in various ways. It has time and date modules which let you store time and date of a certain event. Excel allows you do basic calculations between the values of many cells and tables. It has many other features like filtering and sorting rows and columns of a table and allows you to differentiate between cells using different cell colours and font colour. It has many other features like if-else, rounding off,conditional formatting, hlookup,vlookup and charts.
-Through this course i have gained basic knowledge.
+Through this course i have gained basic knowledge and learned how to use excel. This was a good experience, learning through this course.
 
 # Induction activity report 
 ## 15 July 
