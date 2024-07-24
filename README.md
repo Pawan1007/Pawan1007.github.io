@@ -50,3 +50,24 @@ Through this course i have gained basic knowledge and learned how to use excel. 
 | | **Dr.Kanwardeep Karla** | |
 | | **Dr.Jaswinder Singh** | |
 
+## 22 July
+
+| Date | Name | Lecture |
+|----------|----------|-------------|
+| | Dr.S B Singh| |
+| | Dr.Pushpinder Singh| |
+| | | |
+
+## 23 July
+
+| Date | Name | Lecture |
+|----------|----------|-------------|
+| | Prof.Rishi Kapoor| |
+| | Prof.Manjot Kaur | |
+
+## 24 July
+
+| Date | Name | Lecture |
+|----------|----------|-------------|
+| | | |
+| | | |
