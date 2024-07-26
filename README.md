@@ -38,7 +38,7 @@ Through this course i have gained basic knowledge and learned how to use excel. 
 
 | Date | Name | Lecture |
 |----------|----------|-------------|
-| **18-July** | **Prof.Nisha Masson** | Our first class on 18 July was UHV. It was our second class of UHV conducted by Prof.Nisha Masson. She started the class by recaping what we learned in our previous class. After recaping the all topics that we learned previously, our next chapter was started. It was about |
+| **18-July** | **Prof.Nisha Masson** | Our first class on 18 July was UHV. It was our second class of UHV conducted by Prof.Nisha Masson. She started the class by recaping what we learned in our previous class. After recaping the all topics that we learned previously, our next chapter was started. It was about harmony ina family told us about 9 feelings in a relationship|
 | **18-July** | **Seniors** | |
 | | **Dr.Harwinder Singh**| |
 | | **Dr.Jasveer Singh Grewal** | |
