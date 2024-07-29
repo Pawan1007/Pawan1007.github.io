@@ -32,16 +32,16 @@ Through this course i have gained basic knowledge and learned how to use excel. 
 | Date | Name | Lecture |
 |----------|----------|-------------|
 | **17-July** | **Mr.Sukhminder Singh**| Mr.Sukhminder Singh is a math teacher who attended our class on 17 July. Firstly he introduced himself to the class and then asked the students a few questions about them. He started teaching us the basics of derivatives and gave us few questions of it. As we solved the questions he started increasing difficulty and taught us very much about derivatives and before ending the class he gave us some questions to solve at home |
-| **17-July** | **Prof.Nisha Masson** | Our second class on 17 july was on UHV (Universal human values)|. Prof Nisha Masson was conducting that class. She started by explaining what was the UHV all about. This Lecture explained us the value of a human and waht we need in our life and how maintain our life in order to attain happiness. This lecture went across many other topics as well, like self exploration and the sources imagination,etc |
+| **17-July** | **Prof.Nisha Masson** | Our second class on 17 july was on UHV (Universal human values). Prof Nisha Masson was conducting that class. She started by explaining what was the UHV all about. This Lecture explained us the value of a human and waht we need in our life and how maintain our life in order to attain happiness. This lecture went across many other topics as well, like self exploration and the sources imagination,etc |
 
 ## 18 July
 
 | Date | Name | Lecture |
 |----------|----------|-------------|
 | **18-July** | **Prof.Nisha Masson** | Our first class on 18 July was UHV. It was our second class of UHV conducted by Prof.Nisha Masson. She started the class by recaping what we learned in our previous class. After recaping the all topics that we learned previously, our next chapter was started. It was about harmony ina family told us about 9 feelings in a relationship|
-| **18-July** | **Seniors** | |
-| | **Dr.Harwinder Singh**| |
-| | **Dr.Jasveer Singh Grewal** | |
+| **18-July** | **Seniors** | Our seniors from the same branch generously shared their guidance and expertise, helping us prepare for the next four years. With kindness and openness, they revealed the unwritten rules of college life, explaining how things really work and what to expect. They offered sage advice on how to navigate academic challenges, make the most of extracurricular opportunities, and build meaningful relationships with faculty and peers. Our seniors also hosted a candid Q&A session, addressing our concerns and doubts about studies, extracurricular activities, and even the everyday tasks like filling out forms. They broke down the grading system, explaining how it works and how to achieve our desired grades. By sharing their stories, insights, and expertise, our seniors made us feel seen, heard, and empowered to take on the college journey with confidence and enthusiasm. |
+| | **Dr.Harwinder Singh**| Dr. Harwinder Singh, a distinguished guest, visited our college during the induction program for first-year students, marking the beginning of their academic journey. He delivered an inspiring talk, highlighting the significance of the National Cadet Corps (NCC) in shaping the lives of young individuals. Emphasizing the importance of NCC, he explained how it empowers students to develop essential life skills, enabling them to tackle challenges and overcome obstacles. To illustrate his point, he asked students to search for "life skills" on the internet, referencing the World Health Organization's (WHO) definition. The search results revealed a list of basic skills that are remarkably similar to those taught to NCC students, including critical thinking, problem-solving, communication, and leadership. By drawing this parallel, Harwinder Singh demonstrated how NCC training equips students with the necessary tools to navigate life's complexities and become capable, confident, and responsible individuals. His talk motivated the students to consider joining NCC and embark on a journey of self-discovery and growth.|
+| | **Dr.Jasveer Singh Grewal** | As for next,Er. Jasveer Singh Grewal shared his passion for National Service Scheme (NSS), his infectious enthusiasm drew the students in. He painted a vivid picture of how NSS can transform lives, fostering a sense of community and social responsibility. With a warm smile, he highlighted the benefits of teamwork, leadership, and communication skills that come from working together towards a common goal. His own experiences had taught him the value of empathy, adaptability, and creative problem-solving. Er. Grewal's message was clear: NSS is a journey of self-discovery, growth, and connection. By embracing it, students can unlock their potential, build lasting relationships, and make a positive impact on the world around them. His genuine passion inspired the students to explore the possibilities of NSS and embark on their own path of growth and service. He explained how joining NSS would be good for society as well as for developing one's own skills.|
 
 ## 19 July
 
@@ -54,9 +54,9 @@ Through this course i have gained basic knowledge and learned how to use excel. 
 
 | Date | Name | Lecture |
 |----------|----------|-------------|
-| | Dr.S B Singh| |
-| | Dr.Pushpinder Singh| |
-| | | |
+| | **Dr.S B Singh** | |
+| | **Dr.Pushpinder Singh** | |
+| | **Dr.Sangeeta** | |
 
 ## 23 July
 
